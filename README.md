@@ -42,7 +42,6 @@ IPL-Data-Analysis-Tableau
 │
 ├── dataset
 ├── dashboard
-├── screenshots
 └── README.md
 ```
 
